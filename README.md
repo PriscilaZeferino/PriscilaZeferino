@@ -27,6 +27,8 @@ Sou formada em informática, apaixonada por desenvolvimento de softwares e aplic
 
 :books: Estudando a linguagem C
 
+### Sobre mim:
+
 💬 Curto tecnologias, games, livros, filmes e series. Sou bastante curiosa e gosto sempre de aprender coisas novas.
 
 ### Entre em contato comigo:
