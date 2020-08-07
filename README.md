@@ -30,5 +30,7 @@ Sou formada em informática, apaixonada por desenvolvimento de softwares e aplic
 💬 Curto tecnologias, games, livros, filmes e series. Sou bastante curiosa e gosto sempre de aprender coisas novas.
 
 ### Entre em contato comigo:
+
 :e-mail: priscila.zeferino23@gmail.com
+
 🖇 linkedin.com/in/priscila-zeferino-594b5b175
