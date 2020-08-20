@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-:computer: Sou formada em informática, apaixonada por desenvolvimento de softwares e aplicativos, e estou buscando me tornar uma FullStack Developer :computer:
+:computer: Sou formada em informática, apaixonada por desenvolvimento de softwares e aplicativos, e estou buscando me tornar uma Desenvolvedora Full Stack. Já consigo desenvolver algumas coisas tanto em front-end quanto em back-end. :computer:
 
 :mortar_board: Formada como Técnica em informática no IFRS - Campus Osório em 2019
 
