@@ -21,11 +21,9 @@
 
 :office: Buscando oportunidades em projetos e empresas.
 
-:books: Aprimorando conhecimentos em Java
+:books: Estudando JavaScript, CSS3, e HTML5
 
 :books: Estudando ReactJs, Node.Js, React Native & TypeScript
-
-:books: Estudando a linguagem C
 
 ### Sobre mim:
 
