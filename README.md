@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( linkedin.com/in/priscila-zeferino-594b5b175)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/priscila-zeferino-594b5b175)
 [<img src="https://img.shields.io/github/followers/PriscilaZeferino?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PriscilaZeferino) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:priscila.zeferino23@gmail.com)
 
