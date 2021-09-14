@@ -21,7 +21,7 @@
 
 :mortar_board: Formada como Técnica em informática no IFRS - Campus Osório em 2019
 
-:mortar_board: Cursando o 1° Semestre de Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório.
+:mortar_board: Cursando Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório.
 
 :office: Buscando oportunidades em projetos e empresas.
 
