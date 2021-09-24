@@ -25,7 +25,9 @@
 
 :office: Buscando oportunidades em projetos e empresas.
 
-:books: Estudando JavaScript, CSS3, e HTML5
+:books: Conhecimentos gerais: Java Orientado a Objeto, Linguagem C, Banco de dados relacional SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
+
+:books: Aprofundando JavaScript, CSS3, e HTML5
 
 :books: Estudando ReactJs, Node.Js, React Native & TypeScript
 
