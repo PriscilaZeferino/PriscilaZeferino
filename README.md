@@ -1,39 +1,27 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( linkedin.com/in/priscila-zeferino-594b5b175)
-[<img src="https://img.shields.io/github/followers/PriscilaZeferino?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PriscilaZeferino) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:priscila.zeferino23@gmail.com)
+# Hi There! I'm Priscila Yasmin 👋
 
-### Olá pessoal, Priscila Zeferino aqui 👋
+:computer:  I'm graduated Computer Technician, passionate about software and application development, and am looking to become a Full Stack Developer. As a junior developer I can already develop some simple systems. :computer:
 
-<!--
-**PriscilaZeferino/PriscilaZeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mortar_board:  Graduated as an IT Technician at IFRS - Campus Osório in 2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board:  Studying Systems Analysis and Development at IFRS - Campus Osório.
 
-:computer: Sou formada em informática, apaixonada por desenvolvimento de softwares e aplicativos, e estou buscando me tornar uma Desenvolvedora Full Stack. Já consigo desenvolver algumas coisas tanto em front-end quanto em back-end. :computer:
+:office:  Looking for opportunities in projects and/or companies.
 
-:mortar_board: Formada como Técnica em informática no IFRS - Campus Osório em 2019
+:books:  General knowledge: Java Orientado a Objeto, Linguagem C, Banco de dados relacional SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
 
-:mortar_board: Cursando Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório.
+:books:  Deepening: JavaScript, CSS3, e HTML5, and development mobile
 
-:office: Buscando oportunidades em projetos e empresas.
+:books:  Studying ReactJs, Node.Js, React Native & TypeScript
 
-:books: Conhecimentos gerais: Java Orientado a Objeto, Linguagem C, Banco de dados relacional SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
+💬   I enjoy technologies, games, love watching movies and series, reading books, and writing my own stories. A curious person who likes to learn new languages, explore curious facts about the world around him, and play with anything that stimulates or plays with your creativity. I'm made of art and technology, a chaotic and colorful mix that always seeks to show its best side.
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%)](https://github.com/priscilazeferino/github-readme-stats)
 
-:books: Aprofundando JavaScript, CSS3, e HTML5
+## Contact-me
 
-:books: Estudando ReactJs, Node.Js, React Native & TypeScript
-
-### Sobre mim:
-
-💬 Curto tecnologias, games, livros, filmes e series. Sou bastante curiosa e gosto sempre de aprender coisas novas.
-
- <a><img src="https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=purple" /></a>
-
+![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc&link=https://www.instagram.com/devgirl_pri)
+![Linkedin](https://img.shields.io/badge/-Linkedin-6a0dad?style=for-the-badge&logo=Linkedin&logoColor=d0b4dc&link=https://www.linkedin.com/in/priscila-yasmin-da-rocha-zeferino-594b5b175/)
+![Gmail](https://img.shields.io/badge/-Gmail-6a0dad?style=for-the-badge&logo=Gmail&logoColor=d0b4dc&link=mailto:priscila.zeferino23@gmail.com)
+![Lattes](https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc&link=http://lattes.cnpq.br/0649886104585536)
