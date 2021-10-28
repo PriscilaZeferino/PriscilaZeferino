@@ -8,7 +8,7 @@
 
 :office:  Looking for opportunities in projects and/or companies.
 
-:books:  General knowledge: Java Orientado a Objeto, Linguagem C, Banco de dados relacional SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
+:books:  General knowledge: Object Oriented Java, Language C, Relational database SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
 
 :books:  Deepening: JavaScript, CSS3, e HTML5, and development mobile
 
