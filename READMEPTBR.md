@@ -1,7 +1,7 @@
 LINGUA   
 ---------------| 
-![Inglês](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/README)                | 
-![Português](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/READMEPTBR)         | 
+![Inglês](/README)                | 
+![Português](/READMEPTBR)         | 
 
 
 # Olá! Eu sou Priscila Yasmin 👋 👋
