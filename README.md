@@ -17,7 +17,7 @@
 💬   I enjoy technologies, games, love watching movies and series, reading books, and writing my own stories. A curious person who likes to learn new languages, explore curious facts about the world around him, and play with anything that stimulates or plays with your creativity. I'm made of art and technology, a chaotic and colorful mix that always seeks to show its best side.
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%)](https://github.com/priscilazeferino/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%)](https://github.com/priscilazeferino/github-readme-stats)-->
 
 ## Contact-me
 
