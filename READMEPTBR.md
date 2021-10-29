@@ -24,8 +24,12 @@ VER EM OUTRA LINGUA
 
 💬  Gosto de tecnologias, jogos, adoro assistir filmes e séries, ler livros e escrever minhas próprias histórias. Uma pessoa curiosa que gosta de aprender novos idiomas, explorar fatos curiosos sobre o mundo ao seu redor e brincar com qualquer coisa que estimule ou brinque com sua criatividade. Sou feita de arte e tecnologia, uma mistura caótica e colorida que busca sempre mostrar o seu melhor.
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%)](https://github.com/priscilazeferino/github-readme-stats)-->
+<div align="center">
+  <a href="https://github.com/PriscilaZeferino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%"/>
+</div>
+
 
 ## Contact-me
 
