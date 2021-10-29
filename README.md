@@ -1,3 +1,8 @@
+VER EM OUTRA LINGUA   
+---------------| 
+[Inglês](https://github.com/PriscilaZeferino/PriscilaZeferino/)                            | 
+[Português](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/READMEPTBR.md)| 
+
 # Hi There! I'm Priscila Yasmin 👋
 
 :computer:  I'm graduated Computer Technician, passionate about software and application development, and am looking to become a Full Stack Developer. As a junior developer I can already develop some simple systems. :computer:
