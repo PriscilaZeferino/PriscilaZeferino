@@ -1,5 +1,5 @@
-VER EM OUTRA LINGUA   
----------------| 
+SEE IN OTHER LANGUAGE
+-------------------------------------------------------------------------------------------| 
 [Inglês](https://github.com/PriscilaZeferino/PriscilaZeferino/)                            | 
 [Português](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/READMEPTBR.md)| 
 
