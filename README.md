@@ -23,8 +23,13 @@ SEE IN OTHER LANGUAGE
 
 💬   I enjoy technologies, games, love watching movies and series, reading books, and writing my own stories. A curious person who likes to learn new languages, explore curious facts about the world around him, and play with anything that stimulates or plays with your creativity. I'm made of art and technology, a chaotic and colorful mix that always seeks to show its best side.
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%)](https://github.com/priscilazeferino/github-readme-stats)-->
+
+<div align="center">
+  <a href="https://github.com/PriscilaZeferino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%"/>
+</div>
+
 
 ## Contact-me
 
@@ -34,6 +39,6 @@ SEE IN OTHER LANGUAGE
 ![Lattes](https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc&link=http://lattes.cnpq.br/0649886104585536)
 
 ### Total de visitas no meu perfil :detective:   
- <p align="center"> 
+ <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/PriscilaZeferino/count.svg" />
  </p>
