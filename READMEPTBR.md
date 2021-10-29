@@ -1,3 +1,4 @@
+![](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/cover.png)
 VER EM OUTRA LINGUA   
 ---------------| 
 [Inglês](https://github.com/PriscilaZeferino/PriscilaZeferino/)                            | 
