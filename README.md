@@ -47,7 +47,7 @@ SEE IN OTHER LANGUAGE
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-6a0dad?style=for-the-badge&logo=Linkedin&logoColor=d0b4dc" />
 </a>
   
-  <a target="_blank" href="hhttp://lattes.cnpq.br/0649886104585536">
+  <a target="_blank" href="http://lattes.cnpq.br/0649886104585536">
   <img align="left" alt="Lattes" src="https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc" />
 </a>
   
