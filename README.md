@@ -39,11 +39,18 @@ SEE IN OTHER LANGUAGE
 
 ## Contact-me
 
-![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc&link=https://www.instagram.com/devgirl_pri)
-![Linkedin](https://img.shields.io/badge/-Linkedin-6a0dad?style=for-the-badge&logo=Linkedin&logoColor=d0b4dc&link=https://www.linkedin.com/in/priscila-yasmin-da-rocha-zeferino-594b5b175/)
-![Gmail](https://img.shields.io/badge/-Gmail-6a0dad?style=for-the-badge&logo=Gmail&logoColor=d0b4dc&link=mailto:priscila.zeferino23@gmail.com)
-![Lattes](https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc&link=http://lattes.cnpq.br/0649886104585536)
-
+<a target="_blank" href="https://www.instagram.com/devgirl_pri">
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc" />
+</a>
+  
+<a target="_blank" href="https://www.linkedin.com/in/priscila-yasmin-da-rocha-zeferino-594b5b175">
+  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-6a0dad?style=for-the-badge&logo=Linkedin&logoColor=d0b4dc" />
+</a>
+  
+  <a target="_blank" href="hhttp://lattes.cnpq.br/0649886104585536">
+  <img align="left" alt="Lattes" src="https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc" />
+</a>
+  
 ### Total de visitas no meu perfil :detective:   
  <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/PriscilaZeferino/count.svg" />
