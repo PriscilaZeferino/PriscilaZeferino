@@ -28,16 +28,16 @@ SEE IN OTHER LANGUAGE
 <p align="center">Priscila Zeferino</p>
 </blockquote>
 
-
 <div align="center">
   <a href="https://github.com/PriscilaZeferino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%"/>
 </div>
 
+<!-- ### Total de visitas no meu perfil :detective:   
+<img align="center" src="https://profile-counter.glitch.me/PriscilaZeferino/count.svg" /> -->
 
 ## Contact-me
-
 <a target="_blank" href="https://www.instagram.com/devgirl_pri">
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc" />
 </a>
@@ -49,8 +49,5 @@ SEE IN OTHER LANGUAGE
   <a target="_blank" href="http://lattes.cnpq.br/0649886104585536">
   <img align="left" alt="Lattes" src="https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc" />
 </a>
-  
-### Total de visitas no meu perfil :detective:   
- <p align="left"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/PriscilaZeferino/count.svg" />
- </p>
+
+ 
