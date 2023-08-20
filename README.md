@@ -26,9 +26,8 @@ SEE IN OTHER LANGUAGE
 <blockquote align="center"> 
 "I want to make a difference in the world through codes..."
 <p align="center">Priscila Zeferino</p>
-
 </blockquote>
-💬   I enjoy technologies, games, love watching movies and series, reading books, and writing my own stories. A curious person who likes to learn new languages, explore curious facts about the world around him, and play with anything that stimulates or plays with your creativity. I'm made of art and technology, a chaotic and colorful mix that always seeks to show its best side.
+
 
 <div align="center">
   <a href="https://github.com/PriscilaZeferino">
