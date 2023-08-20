@@ -20,7 +20,7 @@ VER EM OUTRA LINGUA
 
 :books:  Aprofundando: JavaScript, CSS3, e HTML5, and development mobile
 
-:books:  Estudando ReactJs, Node.Js, React Native & TypeScript
+:books:  Estudando ReactJs, VueJs, Node.Js, React Native & TypeScript
 
 💬  Gosto de tecnologias, jogos, adoro assistir filmes e séries, ler livros e escrever minhas próprias histórias. Uma pessoa curiosa que gosta de aprender novos idiomas, explorar fatos curiosos sobre o mundo ao seu redor e brincar com qualquer coisa que estimule ou brinque com sua criatividade. Sou feita de arte e tecnologia, uma mistura caótica e colorida que busca sempre mostrar o seu melhor.
  
@@ -29,7 +29,6 @@ VER EM OUTRA LINGUA
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%"/>
 </div>
-
 
 ## Contact-me
 
