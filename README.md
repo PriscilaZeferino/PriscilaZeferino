@@ -19,7 +19,7 @@ SEE IN OTHER LANGUAGE
 
 :books:  Deepening: JavaScript, CSS3, e HTML5, and development mobile
 
-:books:  Studying ReactJs, Node.Js, React Native & TypeScript
+:books:  Studying ReactJs, VueJs, Node.Js, React Native & TypeScript
 
 💬   I enjoy technologies, games, love watching movies and series, reading books, and writing my own stories. A curious person who likes to learn new languages, explore curious facts about the world around him, and play with anything that stimulates or plays with your creativity. I'm made of art and technology, a chaotic and colorful mix that always seeks to show its best side.
 
