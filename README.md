@@ -2,29 +2,35 @@
 
 SEE IN OTHER LANGUAGE
 -------------------------------------------------------------------------------------------| 
-[Inglês](https://github.com/PriscilaZeferino/PriscilaZeferino/)                            | 
-[Português](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/READMEPTBR.md)| 
+[English](https://github.com/PriscilaZeferino/PriscilaZeferino/)                            | 
+[Portuguese](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/READMEPTBR.md)| 
 
-# Hi There! I'm Priscila Yasmin 👋
+# Hello! I'm Pri 👋
 
-:computer:  I'm graduated Computer Technician, passionate about software and application development, and am looking to become a Full Stack Developer. As a junior developer I can already develop some simple systems. :computer:
+💻 I have a degree in Systems Analysis and Development, I'm passionate about software and app development, and I'm aiming to become a Full Stack Developer. I worked as an intern at CI&T and I am currently a developer at Trindtech.
 
-:mortar_board:  Graduated as an IT Technician at IFRS - Campus Osório in 2019
+**Technologies studied and learned during this process:**
+- Vue2 and Vue3
+- .NET
+- Unit testing with Jest
+- End-to-end testing with Cypress
+- I also studied a bit of AWS
 
-:mortar_board:  Studying Systems Analysis and Development at IFRS - Campus Osório.
+🎓 Graduated in IT Technician from IFRS - Osório Campus (2019).
 
-:office:  Looking for opportunities in projects and/or companies.
+🎓 Graduated in Systems Analysis and Development from IFRS - Osório Campus (2023).
 
-:books:  General knowledge: Object Oriented Java, Language C, Relational database SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
+📚 **General knowledge:** Java (Object-Oriented), C Programming Language, Relational Databases SQL (MySQL, PostgreSQL), HTML5, CSS3, JavaScript, Node.js, React, Vue.js
 
-:books:  Deepening: JavaScript, CSS3, e HTML5, and development mobile
+📚 **Deepening knowledge in:**
+JavaScript, CSS3, HTML5, React, Node.js, Vue.js
 
-:books:  Studying ReactJs, VueJs, Node.Js, React Native & TypeScript
+📚 **Currently studying:** React.js, Vue.js, Node.js, TypeScript, and .NET
 
-💬   I enjoy technologies, games, love watching movies and series, reading books, and writing my own stories. A curious person who likes to learn new languages, explore curious facts about the world around him, and play with anything that stimulates or plays with your creativity. I'm made of art and technology, a chaotic and colorful mix that always seeks to show its best side.
+💬 I'm passionate about technology, games, movies, TV shows, books, and writing my own stories. I'm a curious person who loves learning new languages, exploring interesting facts about the world around me, and playing with anything that sparks creativity. I’m made of art and technology, a chaotic and colorful mix that always strives to show its best. I want to transform the world — or at least a small part of it — even if it’s just 0.000001%, through technology.
 
 <blockquote align="center"> 
-"I want to make a difference in the world through codes..."
+"I want to impact the world, or at least a small part of it, using technology."
 <p align="center">Priscila Zeferino</p>
 </blockquote>
 
@@ -34,10 +40,7 @@ SEE IN OTHER LANGUAGE
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%"/>
 </div>
 
-<!-- ### Total de visitas no meu perfil :detective:   
-<img align="center" src="https://profile-counter.glitch.me/PriscilaZeferino/count.svg" /> -->
-
-## Contact-me
+## Contact
 <a target="_blank" href="https://www.instagram.com/devgirl_pri">
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc" />
 </a>
@@ -49,5 +52,3 @@ SEE IN OTHER LANGUAGE
   <a target="_blank" href="http://lattes.cnpq.br/0649886104585536">
   <img align="left" alt="Lattes" src="https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc" />
 </a>
-
- 
