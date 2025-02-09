@@ -1,38 +1,55 @@
 ![](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/cover.png)
 
-VER EM OUTRA LINGUA   
----------------| 
+SEE IN OTHER LANGUAGE
+-------------------------------------------------------------------------------------------| 
 [Inglês](https://github.com/PriscilaZeferino/PriscilaZeferino/)                            | 
 [Português](https://github.com/PriscilaZeferino/PriscilaZeferino/blob/master/READMEPTBR.md)| 
 
+# Olá! Sou a Pri 👋
 
-# Olá! Eu sou Priscila Yasmin 👋 👋
+💻 Sou formada em Análise e desenvolvimento de sistemas, apaixonada por desenvolvimento de software e aplicativos, e busco me tornar uma Desenvolvedora Full Stack. Trabalhei como estagiária na CI&T e atualmente sou desenvolvedora na Trindtech.
 
-:computer:  Sou formada em Técnico em Informática, apaixonada por desenvolvimento de software e aplicativos e pretendo me tornar um Desenvolvedor Full Stack. Como desenvolvedora júnior, já posso desenvolver alguns sistemas simples. :computer:
+**Tecnologias estudadas e aprendidas durante esse processo:**
+- Vue2 e Vue3
+- .NET
+- Testes unitários com Jest
+- Testes end-to-end com Cypress
+- Estudei um pouco de AWS também
 
-:mortar_board: Graduado como Técnico de Informática pelo IFRS - Osório Campus em 2019.
+🎓 Graduada em Técnico de Informática pelo IFRS - Campus Osório (2019).
 
-:mortar_board:  Cursando Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório.
+🎓 Graduada em Análise e Desenvolvimento de Sistemas pelo IFRS - Campus Osório (2023).
 
-:office:  Em busca de oportunidades em projetos e / ou empresas.
+📚 **Conhecimentos gerais:** Java (Orientação a Objetos), Linguagem C, Bancos de Dados Relacionais SQL (MySQL, PostgreSQL), HTML5, CSS3, JavaScript, Node.js, React, Vue.js
 
-:books:  Conhecimento gerais: Object Oriented Java, Language C, Relational database SQL (MySQL, Postgress), HTML5, CSS3, JavaScript, NodeJS
+📚 **Aprofundamento em:**
+JavaScript, CSS3, HTML5, React, Node.js, Vue.js
 
-:books:  Aprofundando: JavaScript, CSS3, e HTML5, and development mobile
+📚 **Estudando atualmente:** React.js, Vue.js, Node.js, TypeScript e .NET
 
-:books:  Estudando ReactJs, VueJs, Node.Js, React Native & TypeScript
+💬 Sou apaixonada por tecnologias, jogos, filmes, séries, livros e escrever minhas próprias histórias. Uma pessoa curiosa que adora aprender novos idiomas, explorar fatos curiosos sobre o mundo ao seu redor e brincar com qualquer coisa que estimule a criatividade. Sou feita de arte e tecnologia, uma mistura caótica e colorida que busca sempre mostrar o seu melhor. Quero transformar o mundo — ou pelo menos uma pequena parte dele — nem que seja 0,000001%, usando tecnologia.
 
-💬  Gosto de tecnologias, jogos, adoro assistir filmes e séries, ler livros e escrever minhas próprias histórias. Uma pessoa curiosa que gosta de aprender novos idiomas, explorar fatos curiosos sobre o mundo ao seu redor e brincar com qualquer coisa que estimule ou brinque com sua criatividade. Sou feita de arte e tecnologia, uma mistura caótica e colorida que busca sempre mostrar o seu melhor.
- 
+
+<blockquote align="center"> 
+"Quero impactar o mundo, ou pelo menos uma pequena parte dele, utilizando tecnologia."
+<p align="center">Priscila Zeferino</p>
+</blockquote>
+
 <div align="center">
   <a href="https://github.com/PriscilaZeferino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilazeferino&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaZeferino&layout=compact&theme=midnight-purple&width:494&heigth:99%"/>
 </div>
 
-## Contact-me
-
-![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc&link=https://www.instagram.com/devgirl_pri)
-![Linkedin](https://img.shields.io/badge/-Linkedin-6a0dad?style=for-the-badge&logo=Linkedin&logoColor=d0b4dc&link=https://www.linkedin.com/in/priscila-yasmin-da-rocha-zeferino-594b5b175/)
-![Gmail](https://img.shields.io/badge/-Gmail-6a0dad?style=for-the-badge&logo=Gmail&logoColor=d0b4dc&link=mailto:priscila.zeferino23@gmail.com)
-![Lattes](https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc&link=http://lattes.cnpq.br/0649886104585536)
+## Contato
+<a target="_blank" href="https://www.instagram.com/devgirl_pri">
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=Instagram&logoColor=d0b4dc" />
+</a>
+  
+<a target="_blank" href="https://www.linkedin.com/in/priscila-yasmin-da-rocha-zeferino-594b5b175">
+  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-6a0dad?style=for-the-badge&logo=Linkedin&logoColor=d0b4dc" />
+</a>
+  
+  <a target="_blank" href="http://lattes.cnpq.br/0649886104585536">
+  <img align="left" alt="Lattes" src="https://img.shields.io/badge/-Lattes-6a0dad?style=for-the-badge&logo=Lattes&logoColor=d0b4dc" />
+</a>
